@@ -2,6 +2,9 @@
 
 BetweenUs is a Java Swing social deduction game inspired by *Among Us*. Players explore a tile-based map, complete room events, and try to identify the impostor. The project was built as a five-person team assignment for the Object-Oriented Programming course at La Salle, 2022–2023.
 
+<img width="603" height="387" alt="image" src="https://github.com/user-attachments/assets/87139f3b-75cc-4ca7-960d-fc008660467a" />
+
+
 ## My contribution
 
 I implemented the map-generation system, which reads plain-text map files to place tiles; the viewport-aware rendering that selects images based on world position and the visible area; collision detection; and the player-sprite animation system.
