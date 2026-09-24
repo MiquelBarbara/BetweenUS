@@ -1,0 +1,4 @@
+000_void.png
+false
+001_void.png
+true

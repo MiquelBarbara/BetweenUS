@@ -1,0 +1,16 @@
+# Maven build output
+/target/
+
+# Local database credentials
+/config/database.json
+
+# IDE and operating-system files
+/.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Legacy generated output
+/out/
+/javadoc/

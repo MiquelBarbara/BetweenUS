@@ -1,0 +1,6 @@
+void void void void void void void 
+void void room3_SE pass_EW pass_SEW room4_SW void 
+void room1_E pass_NSEW room2_W room3_N pass_NS void 
+void void room1_NE pass_SW room5_S room1_NS void 
+void void void pass_NE pass_NEW room1_NW void 
+void void void void void void void 
